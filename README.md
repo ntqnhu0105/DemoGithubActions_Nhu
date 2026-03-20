@@ -1,2 +1,1 @@
-Hello HUTECH!
-Nguyễn Thị Quỳnh Như !!!!!!
+Thử nghiệm đọc file README
